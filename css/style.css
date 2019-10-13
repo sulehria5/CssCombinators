@@ -1,0 +1,14 @@
+section{
+    border: 2px solid#c71585;
+    border-radius: 1.5vw;
+}
+article{
+    border: 2px solid#00bfff;
+    border-radius: 1.5vw;
+}
+em {
+    color: #c71585;
+}
+h2~ p  {
+    background-color: #00bfff;
+}
